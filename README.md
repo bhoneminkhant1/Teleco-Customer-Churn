@@ -93,7 +93,7 @@ Evaluate models using:
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/bhoneminkhant1/Teleco-Customer-Churn.gits>
 cd <YOUR_PROJECT_FOLDER>
 ```
 
