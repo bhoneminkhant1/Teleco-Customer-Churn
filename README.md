@@ -94,7 +94,7 @@ Clone the repository:
 
 ```bash
 git clone <https://github.com/bhoneminkhant1/Teleco-Customer-Churn.gits>
-cd <YOUR_PROJECT_FOLDER>
+cd <Teleco-Customer-Churn>
 ```
 
 Install the required packages:
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 ```bash
-python -m streamlit run <YOUR_STREAMLIT_APP_FILE>.py
+python -m streamlit run app.py
 ```
 
 Replace the filename with the actual name of your Streamlit application.
